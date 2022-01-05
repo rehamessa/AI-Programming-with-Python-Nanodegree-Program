@@ -10,6 +10,9 @@ Anaconda, Jupyter Notebooks
 Numpy, Pandas, Matplotib
 ### Module 4: Linear Algebra Essentials
 Lessons (Introduction, Vectors, Linear Combination, Linear Transformation and Matrices and Linear Algebra in Neural Networks )
+Labs (Vectors, Linear Combination and Linear Mapping)
+### Module 5: Neural Networks
+Lessons (Introduction to Neural Networks, Implementing Gradient Descent and Training Neural Networks)
 Lesson (Deep Learning with PyTorch)
 ### Module 6: Image Classifier Project
 
